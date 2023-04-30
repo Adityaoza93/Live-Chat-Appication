@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+LETSLIVECHAT is a real time chat application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this app we can chat as well as share images. In this app all the users will able to see the message of all users. Basically it is just like twitter. First of all the admin will add users in the network. After adding the user in the network then only he will be able to post the messages. Anyone can use this app. No charges are need to pay for this app. The main advantage of this app is privacy that is in a network only admin can add the users. So all the users will be verified. This app can
+be used by organizations for circulating notice,etc.
 
-## Available Scripts
+TECHNOLOGY USED: For frontend REACT and CSS is use and for building the network chatengine.io is used. For hosting the application netlify is used.
 
-In the project directory, you can run:
+Link: http://letslivechat.netlify.app/
 
-### `npm start`
+Screenshots:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://user-images.githubusercontent.com/86963278/235362529-b97f8f25-f24b-43f6-b64a-4e4a4f2405fd.png)
+![image](https://user-images.githubusercontent.com/86963278/235362539-1a30c8cd-66cb-4c08-bf69-e14cc8822259.png)
+![image](https://user-images.githubusercontent.com/86963278/235362548-61e3c031-d9fd-47f3-bb6b-80eb77425df1.png)
+![image](https://user-images.githubusercontent.com/86963278/235362554-63efbcf5-3893-4f3a-ae7c-ce80bcca4fa2.png)
+![image](https://user-images.githubusercontent.com/86963278/235362561-9395855c-c57b-422d-b63b-3ea59ab51e40.png)
+![image](https://user-images.githubusercontent.com/86963278/235362576-b7544f1b-750a-4308-839c-29e06382400a.png)
+![image](https://user-images.githubusercontent.com/86963278/235362609-bf36d99f-20d1-45b1-af62-6b7f0da72c00.png)
+![image](https://user-images.githubusercontent.com/86963278/235362628-f8f59a6e-8a1c-4bbe-a607-756d511151a5.png)
+![image](https://user-images.githubusercontent.com/86963278/235362659-86f9deb3-9142-4cc4-89fe-c24035eb5ee9.png)
