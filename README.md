@@ -3,7 +3,7 @@ LETSLIVECHAT is a real time chat application
 In this app we can chat as well as share images. In this app all the users will able to see the message of all users. Basically it is just like twitter. First of all the admin will add users in the network. After adding the user in the network then only he will be able to post the messages. Anyone can use this app. No charges are need to pay for this app. The main advantage of this app is privacy that is in a network only admin can add the users. So all the users will be verified. This app can
 be used by organizations for circulating notice,etc.
 
-TECHNOLOGY USED: For frontend REACT and CSS is use and for building the network chatengine.io is used. For hosting the application netlify is used.
+TECHNOLOGY USED: For frontend REACT and CSS is use and for backend chatengine.io is used. For hosting the application netlify is used.
 
 Link: http://letslivechat.netlify.app/
 
